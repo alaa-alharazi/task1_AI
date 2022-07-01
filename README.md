@@ -1,4 +1,4 @@
-# task2_AI
+# task1_AI
 ## install ros in ubuntu
 ### set locale
 ```
